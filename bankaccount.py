@@ -11,7 +11,6 @@ class BankAccount:
         self.bank_name = bank_name
         self.balance = initial_balance
 
-    # Getters and setters
     def get_bank_name(self):
         return self.bank_name
 
